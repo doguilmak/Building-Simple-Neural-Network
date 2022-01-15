@@ -12,6 +12,7 @@ Before running the code make sure that you have these libraries:
 
  - matplotlib
  - numpy
+ - IPython
 
 ## Contact Me
 
