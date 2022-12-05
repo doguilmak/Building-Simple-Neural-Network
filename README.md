@@ -4,11 +4,13 @@
 
 <small>Picture Source:<a  href="https://giphy.com/harvard/">https://giphy.com/harvard/</a></small>
 
+<br>
+
 <h2>Problem Statement</h2>
 
 <p>In this lab, we builded neural networks with Sigmoid, Exponenial ReLU, ReLU and Tanh activation function from scratch and code how it performs predictions using forward propagation. After doing forward propagation, we are going to use backpropagation.</p>
 
-
+<br>
 
 <h2>Objective:</h2>
 <ol>
