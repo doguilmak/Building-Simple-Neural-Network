@@ -10,7 +10,7 @@ Original file is located at
 
 <h1 align=center><font size = 4>Sigmoid Function</font></h1>
 
-<img src="https://i.giphy.com/media/9N2UvCx7wXLnG/giphy.webp" height=400 width=900 alt="https://giphy.com/harvard/">
+<img src="https://i.giphy.com/media/9N2UvCx7wXLnG/giphy.webp" height=400 width=1000 alt="https://giphy.com/harvard/">
 
 <small>Picture Source:<a href="https://giphy.com/harvard/">https://giphy.com/harvard/</a></small>
 
