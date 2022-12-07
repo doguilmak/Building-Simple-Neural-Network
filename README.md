@@ -12,7 +12,7 @@
 
 <br>
 
-<h2>Objective:</h2>
+<h2>Objectives</h2>
 <ol>
 	<li>Build activation functions.</li>
 	<li>Build <i>Artifical Neural Networks (ANNs)</i> from scratch.</li>
