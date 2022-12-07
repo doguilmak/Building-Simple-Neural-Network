@@ -14,6 +14,7 @@
 
 <h2>Objective:</h2>
 <ol>
+	<li>Build activation functions.</li>
 	<li>Build <i>Artifical Neural Networks (ANNs)</i> from scratch.</li>
 	<li>Calculate network output using forward propagation.</li>
 	<li>Calculate <i>loss</i> between <i>ground truth</i> and estimated output.</li>
