@@ -39,7 +39,7 @@
 <ol>
 	<li>ELU Activation Function: <a href="https://github.com/doguilmak/Building-Simple-Neural-Network/blob/main/ELU_Forward_and_Back_Propagation_ANN.ipynb">ELU_Forward_and_Back_Propagation_ANN.ipynb</a></li>
 	<li>Sigmoid Activation Function: <a href="https://github.com/doguilmak/Building-Simple-Neural-Network/blob/main/Sigmoid_Forward_and_Back_Propagation_ANN.ipynb">Sigmoid_Forward_and_Back_Propagation_ANN.ipynb</a></li>
-	<li>Tanh Activation Function: <a href="https://github.com/doguilmak/Building-Simple-Neural-Network/blob/main/Tanh_Forward_and_Back_Propagation_ANN.ipynb">Tanh_Forward_and_Back_Propagation_ANN.ipynb</a></li><p>Will be updated soon.</p>
+	<li>Tanh Activation Function: <a href="https://github.com/doguilmak/Building-Simple-Neural-Network/blob/main/Tanh_Forward_and_Back_Propagation_ANN.ipynb">Tanh_Forward_and_Back_Propagation_ANN.ipynb</a></li>
 	<li>ReLU Activation Function: <a href="https://github.com/doguilmak/Building-Simple-Neural-Network/blob/main/ReLU_Forward_and_Back_Propagation_ANN.ipynb">ReLU_Forward_and_Back_Propagation_ANN.ipynb</a></li>
 </ol>
 
